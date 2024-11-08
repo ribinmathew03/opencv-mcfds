@@ -1,5 +1,5 @@
 
-Face Detection and Recognition System
+###Face Detection and Recognition System
 
 A real-time face detection and recognition system using OpenCV, designed to recognize and log familiar faces from a single camera feed. This system collects, trains, and recognizes faces, storing each detection with a timestamp for efficient monitoring.
 
